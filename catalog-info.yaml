@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: empty-repo
+  annotations:
+    github.com/project-slug: Rbillon59/empty-repo
+spec:
+  type: other
+  lifecycle: unknown
